@@ -1,0 +1,10 @@
+{
+  "name": "my-movies",
+  "app_id": "",
+  "proxies": [
+  	{
+  		"path": "/api",
+  		"proxyUrl": "http://52.78.168.126:8080/api"
+  	}
+  ]
+}
